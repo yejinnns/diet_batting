@@ -1,4 +1,4 @@
-import 'package:diet_batting/spcial_login.dart';
+import 'package:diet_batting/models/spcial_login.dart';
 import 'package:kakao_flutter_sdk/kakao_flutter_sdk.dart';
 
 class MainViewModel{
